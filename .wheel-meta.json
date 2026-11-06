@@ -1,0 +1,22 @@
+{
+  "wheel_id": 790,
+  "structure": "umbrella",
+  "slug": "retainingwallstoowoomba-120",
+  "project": "retaining-wall-contractors-toowoomba-local-options-compared-472",
+  "parent_t1_ref": "retainingwallstoowoomba-159",
+  "node_role": "feeder",
+  "money_target": "retainingwallstoowoomba.com.au",
+  "primary_kw": "retaining wall contractors toowoomba local options compared",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-contractors-toowoomba-local-options-compared-472/",
+  "tier": "T2",
+  "writeback_nonce": "a2d8475ced4f471c",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallstoowoomba-159/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
